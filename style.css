@@ -1,0 +1,43 @@
+#cv-form{
+ 
+}
+
+#cv-template{
+   display: none;
+   font-size: large;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   font-style: normal;
+
+}
+
+.myimg{
+    border-radius: 50%;
+    width: 200px;
+  
+}
+.background{
+    background-color: rgb(23, 221, 244);
+    border-radius: 20px;
+}
+
+.container{
+    /* margin-top: 5px;
+    /* margin-bottom: 6px; */
+     
+}
+
+
+#namet1{
+    margin-top: 12%;
+    margin-bottom: 25px;
+   
+}
+
+#conctackt{
+    margin-bottom: 25px; 
+}
+
+#adresst{
+    margin-bottom: 25px; 
+}
+
